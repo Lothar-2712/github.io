@@ -10,4 +10,4 @@ Hier ist der beste Charakter der Marvel-Reihe.
 
 ## Bester Spruch
 
-**Ich bin Iron-Man**
+Ich bin Iron-Man
